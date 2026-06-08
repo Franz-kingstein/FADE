@@ -1,0 +1,6 @@
+{
+  "name": "FADE",
+  "description": "An elite, moody, and editorial high-fashion personal styling platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
