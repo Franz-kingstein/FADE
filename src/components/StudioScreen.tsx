@@ -318,7 +318,7 @@ export default function StudioScreen() {
               </div>
 
               {/* Toggle switch control overlays */}
-              <div className="absolute bottom-5 left-1/3 right-1/3 bg-background-ink/90 backdrop-blur-md rounded-full p-1.5 border border-muted-teal/30 flex items-center shadow-2xl z-20 whitespace-nowrap justify-between">
+              <div className="absolute bottom-5 left-1/2 -translate-x-1/2 bg-background-ink/90 backdrop-blur-md rounded-full p-1.5 border border-muted-teal/30 flex items-center shadow-2xl z-20 whitespace-nowrap justify-between gap-1 w-max max-w-[95%]">
                 <button
                   id="toggle-camera"
                   onClick={() => setInputMode("Camera")}
